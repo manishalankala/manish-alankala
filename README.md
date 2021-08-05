@@ -13,7 +13,7 @@
 <p align="left">
  
 [![Linkedin: manishalankala](https://img.shields.io/badge/-manishalankala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-kumar-alankala-11b6a8142/)](https://www.linkedin.com/in/manish-kumar-alankala-11b6a8142/)
-  
+[![GitHub manishalankala](https://img.shields.io/github/followers/manishalankala?label=follow&style=social)](https://github.com/manishalankala)
   
   
 
