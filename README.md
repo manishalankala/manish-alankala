@@ -15,12 +15,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-[![Linkedin: manishalankala](https://img.shields.io/badge/-manishalankala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-kumar-alankala-11b6a8142/)](https://www.linkedin.com/in/manish-kumar-alankala-11b6a8142/)
-[![GitHub manishalankala](https://img.shields.io/github/followers/manishalankala?label=follow&style=social)](https://github.com/manishalankala)
- 
-[![Instagram Badge](https://img.shields.io/badge/-manishalankala-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manishalankala/)](https://www.instagram.com/manishalankala/)
+[![Linkedin: manishalankala](https://img.shields.io/badge/-manishalankala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-kumar-alankala-11b6a8142/)](https://www.linkedin.com/in/manish-kumar-alankala-11b6a8142/) [![Instagram Badge](https://img.shields.io/badge/-manishalankala-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manishalankala/)](https://www.instagram.com/manishalankala/) [![Facebook Badge](https://img.shields.io/badge/-manishalankala-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/manishalankala)](https://www.facebook.com/manishalankala) [![GitHub manishalankala](https://img.shields.io/github/followers/manishalankala?label=follow&style=social)](https://github.com/manishalankala)
 
-[![Facebook Badge](https://img.shields.io/badge/-manishalankala-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/manishalankala)](https://www.facebook.com/manishalankala)
+ 
+ 
+ 
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
