@@ -30,9 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishalankala&" alt="manishalankala" /></p>
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=manishalankala&&show_icons=true&theme=radical"/>
+<p align="center" ><a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=manishalankala&&show_icons=true&theme=radical"/>
 </a>
 </p>  
   
