@@ -1,10 +1,4 @@
-```text
-🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
-🌆 Daytime    170 commits    █████████░░░░░░░░░░░░░░░░   39.44% 
-🌃 Evening    139 commits    ████████░░░░░░░░░░░░░░░░░   32.25% 
-🌙 Night      67 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55%
 
-```
 
 
 
@@ -39,3 +33,8 @@
   
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishalankala" alt="manishalankala" /></a> </p>
+
+ 
+ ## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manishalankala&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
