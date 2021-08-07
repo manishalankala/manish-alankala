@@ -1,15 +1,15 @@
 
-<!-- visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/manishalankala/count.svg" />
-</p>
+
 
 
 
 <h1 align="center">Hi 👋, I'm manish alankala</h1>
 
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/manishalankala/count.svg" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=manishalankala&color=green)
 
 - 👨‍💻 my work is available at [https://github.com/manishalankala](https://github.com/manishalankala)
 
