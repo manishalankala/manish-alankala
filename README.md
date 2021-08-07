@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm manish alankala</h1>
 
 <!-- visitor counter -->
-<p align="center"> 
+<p align="left"> 
   <img src="https://profile-counter.glitch.me/manishalankala/count.svg" />
 </p>
 
