@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=manishalankala&color=green)
 
-- 👨‍💻 my work are available at [https://github.com/manishalankala](https://github.com/manishalankala)
+- 👨‍💻 my work is available at [https://github.com/manishalankala](https://github.com/manishalankala)
 
 
 
